@@ -2,7 +2,7 @@
 ### Checkout My Final Implemented Game: https://cv47522.github.io/js-color-game-webpack/
 
 This version is built and bundled by Webpack module. <br/>
-Original non modular version: https://github.com/cv47522/js-color-game
+Original non-modular version: https://github.com/cv47522/js-color-game
 
 ## Grading
 #### 1. Hard mode <b>(60%)</b>
