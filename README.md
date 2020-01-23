@@ -1,4 +1,4 @@
-# Lab 4 Assignment - Color Game
+# Pure JavaScript Color Game (Webpack Modularized Structure)
 ### Checkout My Final Implemented Game: https://cv47522.github.io/js-color-game-webpack/
 
 This version is built and bundled by Webpack module. <br/>
