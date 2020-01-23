@@ -1,3 +1,5 @@
+import './main.css';
+
 window.onload = function () {
   init();
 };
